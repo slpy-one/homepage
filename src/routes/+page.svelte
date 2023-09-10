@@ -3,6 +3,10 @@
   import slpyService from "../lib/db/services";
 </script>
 
+<svelte:head>
+  <title>About | slpy.one</title>
+</svelte:head>
+
 <section class="md:w-[80%] w-full min-h-screen flex flex-row items-center justify-center text-center mx-auto">
   <div class="h-[70vh] w-full overflow-y-auto">
     <h1 class={`${TW.heading.xxxl}`}>
