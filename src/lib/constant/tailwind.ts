@@ -1,6 +1,6 @@
 // This file is using for a frequency used class in tailwind.css
 
-const TW_CLASS = {
+const TW = {
 	link: 'underline duration-300 hover:no-underline hover:opacity-60 hover:text-ctp-sapphire',
 	heading: {
 		xxxl: 'text-3xl py-8',
@@ -10,4 +10,4 @@ const TW_CLASS = {
 	}
 };
 
-export default TW_CLASS;
+export default TW;
