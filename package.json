@@ -33,6 +33,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-cloudflare": "^5.0.2",
 		"@sveltejs/adapter-node": "^1.3.1"
 	}
 }
